@@ -11,7 +11,7 @@ I quite enjoyed the flexibility and creativity that programming offered me. It c
 
 ### 📚 Current Endeavors
 
-On the path to becoming a Machine Learning Engineer/Data Scientist, I'm expanding my skill set through a combination of self-learning, online courses, and an MLE Bootcamp through San Diego Extended Studies. Please check out my [Machine Learning Capstone](https://github.com/anastasiaarsky/ML-Capstone-Spam-Classification), centered around email spam classification, to see the proficiency and insights I've gained from the MLE Bootcamp! 
+On the path to becoming a Machine Learning Engineer/Data Scientist, I'm expanding my skill set through a combination of self-learning, online courses, and an MLE Bootcamp via UC San Diego Extended Studies. Please check out my [Machine Learning Capstone](https://github.com/anastasiaarsky/ML-Capstone-Spam-Classification), centered around email spam classification, to see the proficiency and insights I've gained from the MLE Bootcamp! 
 
 ### 👩‍💻 Future Plans
 
