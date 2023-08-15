@@ -1,8 +1,5 @@
 ## Hey there, I'm Anastasia Arsky! 😊
 
-<!--
-**anastasiaarsky/anastasiaarsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 🌲 About Me
 
 I'm a recent Cal Poly San Luis Obispo graduate with a B.S. in Statistics, currently based in Redwood City, CA (SF Bay Area). An outdoor enthusiast, you can catch me hiking, skiing, rock climbing, or just hammocking. I'm also an unabashed music lover - apologies in advance for your eardrums!
