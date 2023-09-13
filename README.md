@@ -14,7 +14,7 @@ On the path to becoming a Machine Learning Engineer/Data Scientist, I'm expandin
 
 ### 👩‍💻 Future Plans
 
-Anticipating the end of my MLE bootcamp (expected by 9/10/23), I'm gearing up to enter the machine learning/data science realm. Leveraging my statistical foundation with my newly acquired machine learning skills, I'm excited to tackle complex data-driven problems, particularly those involving NLP. Feel free to explore my [resume](https://github.com/anastasiaarsky/anastasiaarsky/blob/main/Anastasia_Arsky_Resume.pdf). I welcome any insights, advice, or job leads!
+Since completing my MLE bootcamp (as of 9/10/23), I'm gearing up to enter the machine learning/data science realm. Leveraging my statistical foundation with my newly acquired machine learning skills, I'm excited to tackle complex data-driven problems, particularly those involving NLP. Feel free to explore my [resume](https://github.com/anastasiaarsky/anastasiaarsky/blob/main/Anastasia_Arsky_Resume.pdf). I welcome any insights, advice, or job leads!
 
 ### 📫 Let's Connect!
 <a href="mailto:anarsky@gmail.com">![anarsky@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
