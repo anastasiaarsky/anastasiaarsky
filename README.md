@@ -10,7 +10,7 @@ While pursuing my statistics degree, I completed computer science courses and re
 
 ### 📚 Current Endeavors
 
-On the path to becoming a Machine Learning Engineer/Data Scientist, I'm expanding my skill set through a combination of self-learning, online courses, and an MLE Bootcamp via UC San Diego Extended Studies. Please check out my [production_repo](https://github.com/anastasiaarsky/production_repo) for my ML capstone project, focused on email spam classification, to see the proficiency and insights I've gained from the MLE Bootcamp! 
+On the path to becoming a Machine Learning Engineer/Data Scientist, I'm expanding my skill set through a combination of self-learning, online courses, and an MLE Bootcamp via UC San Diego Extended Studies. Please check out my [email-spam-classification](https://github.com/anastasiaarsky/email-spam-classification) for my ML capstone project, focused on email spam classification, to see the proficiency and insights I've gained from the MLE Bootcamp! 
 
 ### 👩‍💻 Future Plans
 
